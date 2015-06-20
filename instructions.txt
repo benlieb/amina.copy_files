@@ -1,4 +1,0 @@
-/Users/benlieb/code/amina/from_dir
-/Users/benlieb/code/amina/to_dir
-2.jpg
-3.jpg
