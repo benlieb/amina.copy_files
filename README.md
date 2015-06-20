@@ -2,9 +2,10 @@
 This is a script to help Amina to copy a bunch o files from one place to another place. 
 
 # Usage
-  0. Obtain script via installation instructsion below
-  0. Prepare data file according to instructions below
-  0. In a terminal run:
+
+0. Obtain script via installation instructsion below
+0. Prepare data file according to instructions below
+0. In a terminal run:
 
     ruby /path/to/copy_files.rb /path/to/data.txt
 
