@@ -1,4 +1,4 @@
-/Users/benlieb/code/amina/from_dir
-/Users/benlieb/code/amina/to_dir
-2.jpg
-3.jpg
+/Users/benlieb/my_life/code/amina/amina.copy_files/here
+/Users/benlieb/my_life/code/amina/amina.copy_files/there
+file_2.jpg
+file_3.jpg
