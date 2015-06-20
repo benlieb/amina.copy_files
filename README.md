@@ -5,7 +5,9 @@ This is a script to help Amina to copy a bunch o files from one place to another
   0. Obtain script via installation instructsion below
   0. Prepare data file according to instructions below
   0. In a terminal run:
-    ./copy_files.rb 
+
+    ruby /path/to/copy_files.rb /path/to/data.txt
+
 
 # Installation
 This script is basically just one ruby file that that will be executed from the command line.  It reads a data file that contains the necessary info to copy files from and to the right place. 
@@ -21,6 +23,11 @@ If you can navigate in your terminal to a place where you want to install these 
 
 Use the Download Zip button on this page: https://github.com/pixelterra/amina.copy_files
 
-
-
 # Data File Format
+Take a look at the data.txt file in this repository, and just mimic that. Basically:
+
+* It is a PLAIN TEXT file (not word, or rtf, or xls)
+* You can use any plain text editor to edit this (like TextEdit)
+* The 1st line is the FROM directory
+* The 2nd line is the TO directory
+* Every subsequent line is a file to copy from FROM to TO
